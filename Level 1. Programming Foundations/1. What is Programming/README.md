@@ -7,7 +7,7 @@
 
 ---
 
-<img src="what-is-programming.png" alt="What is Programming" width="50%" />
+<img src="what-is-programming.png" alt="What is Programming" width="71%" />
 
 ---
 
@@ -23,7 +23,7 @@ Before worrying about syntax, programming languages, frameworks, tools, or compl
 
 Every single software application, website, or game follows this exact four-step cycle:
 
-<img src="how-programming-works.png" alt="how programming works" width="50%" />
+<img src="how-programming-works.png" alt="how programming works" width="71%" />
 
 That is the entire foundation!
 
