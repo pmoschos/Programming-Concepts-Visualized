@@ -65,7 +65,12 @@ Programming works in the exact same way:
 Be sure to ⭐ this repository to stay updated with new examples and enhancements!
 
 ## 📄 License
-🔐 This project is protected under the [MIT License](https://mit-license.org/).
+
+⚖️ This repository uses a hybrid licensing model to protect its custom educational visuals:
+
+*   **Explanations & Code:** Licensed under the permissive [MIT License](https://mit-license.org/).
+*   **Visual Assets & Diagrams:** Copyright © [Panagiotis Moschos](https://www.linkedin.com/in/panagiotis-moschos). **All Rights Reserved.** Any reproduction, modification, redistribution, or commercial use of the images, illustrations, or diagrams in this repository requires explicit written permission.
+
 
 
 ## Contact 📧
